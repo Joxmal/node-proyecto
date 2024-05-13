@@ -1,0 +1,9 @@
+En el mundo de Node.js me encuentro,
+donde el código fluye como un río.
+Con sus módulos y su asincronía,
+crea aplicaciones con gran valentía.
+
+Eventos, FIESTONES, y mucho más,
+Node.js es un mundo sin igual.
+Con JavaScript en el lado del servidor,
+su potencial es digno de admirar.
