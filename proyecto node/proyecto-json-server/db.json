@@ -1,0 +1,61 @@
+{
+  "profesores": [
+    {
+      "nombre": "Camila",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "fisica"
+        },
+        {
+          "nombre": "Biologia234324242"
+        }
+      ],
+      "id": "87e5"
+    },
+    {
+      "0": {
+        "nombre": "Camila",
+        "apellido": "Dev",
+        "materias": [
+          {
+            "nombre": "Quimica"
+          },
+          {
+            "nombre": "Biologia"
+          }
+        ],
+        "id": "87e5"
+      },
+      "id": "d1df"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "sergie",
+      "apellido": "sanchez",
+      "promedio": 10,
+      "id": "1a15"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Nodejs desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "d599"
+    },
+    {
+      "nombre": "react",
+      "duracion": 4,
+      "dificultad": "intermedia",
+      "id": "3389"
+    },
+    {
+      "nombre": "vuejs",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "a8a2"
+    }
+  ]
+}
